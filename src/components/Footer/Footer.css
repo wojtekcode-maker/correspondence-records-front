@@ -1,0 +1,20 @@
+.footer {
+    height: 5vh;
+    width: 100%;
+    background-color: #F1BB87;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+footer p {
+    line-height: 5vh;
+    font-style: italic;
+}
+
+footer p span {
+    margin: 0 10px;
+}
