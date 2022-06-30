@@ -1,5 +1,5 @@
 .main-header {
-    height: 15vh;
+    height: 20vh;
 }
 
 .logo {
@@ -63,8 +63,16 @@
     transition: 0.2s;
 }
 
+.main-header nav a i {
+    padding: 0 0 0 5px;
+}
+
+
 .main-header nav a:hover {
     background-color: #dedede;
     color: #000000;
 }
 
+.main-header nav {
+    border-bottom: 1px solid black;
+}
