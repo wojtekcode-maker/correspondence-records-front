@@ -5,7 +5,7 @@ import './Footer.css';
 export const Footer = () => {
     return (
         <footer>
-            <p className="footer"><span>~</span>Projekt i wykonanie - Wojciech Domżał 2022<span>~</span></p>
+            <p className="footer"><span>~</span>Projekt i wykonanie - Wojek 2022<span>~</span></p>
         </footer>
     )
 }

@@ -1,5 +1,5 @@
 .main-header {
-    height: 20vh;
+    height: 15vh;
 }
 
 .logo {
@@ -71,8 +71,4 @@
 .main-header nav a:hover {
     background-color: #dedede;
     color: #000000;
-}
-
-.main-header nav {
-    border-bottom: 1px solid black;
 }

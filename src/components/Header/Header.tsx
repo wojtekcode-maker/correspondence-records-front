@@ -1,7 +1,6 @@
 import React from 'react';
 // @ts-ignore
 import LineIcon from "react-lineicons";
-import {NavExtended} from "../Nav-Extended/NavExtended";
 
 import './Header.css'
 
@@ -29,7 +28,6 @@ export const Header = () => {
                     </li>
                 </ul>
             </nav>
-            <NavExtended/>
         </header>
     )
 }

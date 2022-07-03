@@ -1,0 +1,46 @@
+.log-in {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 50vw;
+    height: 70vh;
+}
+
+.log-in h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.log-in label {
+    font-size: 20px;
+}
+
+.log-in input {
+    margin-left: 15px;
+}
+
+.log-in label, .log-in h1 {
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.small {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.frame {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.frame button {
+    display: block;
+    margin: 10px auto 0;
+    padding: 5px 10px;
+    font-size: 16px;
+}
